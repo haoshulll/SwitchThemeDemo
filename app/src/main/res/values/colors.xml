@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue_window_bg">#ffffff</color>
+    <color name="blue_item_bg">#512da8</color>
+    <color name="blue_primary_bg">#673ab7</color>
+
+    <color name="orange_window_bg">#727272</color>
+    <color name="orange_item_bg">#e64ae9</color>
+    <color name="orange_primary_bg">#FF5722</color>
+
+    <color name="white">@color/blue_window_bg</color>
+
+
+</resources>
